@@ -1,9 +1,4 @@
-
-
-
-
-
-🚀 DEEPBYTO AI Prompt Vault
+## DEEPBYTO AI Prompt Vault
 
 Curated by DEEPBYTO — Practical AI for Everyday Use
 
